@@ -3,12 +3,12 @@
 Stacks:
 Watch the below tutorial on Stacks.
 https://www.youtube.com/watch?v=I37kGX-nZEI&list=PLBlnK6fEyqRgWh1emltdMOz8O2m5X3YYn
- 
+ solution: 
 
 Queues:
 Watch the below tutorial on Queues.
 https://www.youtube.com/watch?v=ypJwoz_SXTo&list=PLqM7alHXFySG6wgjVeEat_ouTIi0IBQ6D
- 
+ solution: 
 
 Hash Tables:
 Watch the below tutorial on Hash Tables.
