@@ -15,46 +15,39 @@ Watch the below tutorial on Hash Tables.
 https://www.youtube.com/watch?v=wWgIAphfn2U&list=PLqM7alHXFySGwXaessYMemAnITqlZdZVE
  
 
-Practice Easy Level Problems:
-Solve easy-level problems on LeetCode or HackerRank.
-https://leetcode.com/problemset/all-code-essentials/?page=1&difficulty=EASY
+
+
  
 
 Reference Documentation:
 Refer to the GeeksforGeeks Data Structures and Algorithms Tutorial and apply filters related to Array, Linked List, Stacks, Queues, and Hash Table topics.
 Learn Data Structures and Algorithms | DSA Tutorial - GeeksforGeeks
+https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/
+
  
+
 
 Algorithms
-
 Understanding Sorting and Searching Algorithms:
-Watch the full course on Sorting Algorithms and related videos.
-Sorting Algorithms Full Course | Sorting Algorithms In Data Structures Explained | Simplilearn – YouTube
- 
+https://www.youtube.com/watch?v=LbcJw-iMIoI
 
-Practice Easy Level Problems:
-Solve easy-level algorithm problems on LeetCode or HackerRank.
-https://leetcode.com/problemset/algorithms/?difficulty=EASY
-(Add filters related to algorithm topic)
- 
-
-Algorithms Tutorials:
 Dijkstra's Algorithm & Bellman-Ford Algorithm:
-Shortest Path Algorithms Explained (Dijkstra's & Bellman-Ford) - YouTube
- 
+https://www.youtube.com/watch?v=j0OUwduDOS0
 
 Graph Traversals (Breadth-First Search, Depth-First Search):
-Watch the Graph Traversal Tutorial.
-Graph Traversal In Data Structures | Breadth First Search &Depth First Search
-Tutorial | Simplilearn – YouTube            
- 
+https://www.youtube.com/watch?v=oOHrSzA8Nwg
 
 Divide and Conquer:
-Watch the tutorial on Divide and Conquer.
-Divide and Conquer: The Art of Breaking Down Problems | Recursion Series (youtube.com)
- 
+https://www.youtube.com/watch?v=ib4BHvr5-Ao
 
 Fractional Knapsack Problem:
-Watch the Fractional Knapsack Problem Tutorial.
 Fractional Knapsack Problem | GeeksforGeeks - YouTube
+
+problem 1 .
+
+https://leetcode.com/problems/pancake-sorting/submissions/1350169208/
+
+
+
+
  
